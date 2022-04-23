@@ -1,0 +1,12 @@
+{
+    "TOKEN": "YOUR DISCORD TOKEN",
+    "PREFIX": "!",
+    "INSTAGRAM": "https://instagram.com",
+    "YOUTUBE": "https://youtube.com",
+    "FACEBOOK": "https://facebook.com",
+    "TWITTER": "https://twitter.com",
+    "DEFAULTUSERGROUPNAME": "",
+    "MUTEUSERGROUPNAME": "",
+    "OWNERID": "",
+    "MONGOURL": ""
+}
